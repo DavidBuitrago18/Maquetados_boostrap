@@ -1,0 +1,32 @@
+#objetoa{
+    background-color: rgb(255, 8, 0);
+    text-align: center;
+    color: darkgreen;
+}
+#objetob{
+   text-align: center;
+    background-color: rgb(0, 255, 242);
+    color: coral;
+}
+#objetoc{
+   text-align:center ;
+    background-color: rgb(204, 181, 152);
+    color: rgb(229, 255, 0);
+}
+
+#objetod{
+    text-align: center;
+    position: relative;
+    background-color: rgb(162, 0, 255);
+   
+}
+#objetoe{
+    text-align: center;
+    background-color: rgb(0, 174, 255);
+    color: antiquewhite;
+}
+#objetof{
+    text-align: center;
+    background-color: rgb(255, 94, 0);
+ 
+}

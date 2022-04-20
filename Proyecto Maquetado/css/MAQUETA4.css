@@ -1,0 +1,46 @@
+
+.container{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+#box1{
+    background-color: rgb(255, 0, 0);
+    color: antiquewhite;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+
+article{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    
+}
+
+main{
+    background-color: rgb(255, 106, 0);
+    height: 300px;
+    display: inline-block;
+  border: 1px solid;
+}
+
+section{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    display: inline-block;
+  background: rgb(185, 140, 158);
+  border: 1px solid;
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    height: 450px;
+}
+
+footer{
+    background-color: rgb(47, 135, 98);
+    height: 50px;
+}
